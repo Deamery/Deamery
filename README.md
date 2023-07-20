@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CPE Student
 -----------
 
-I just started studying computer engineering. I would like to learn and develop various aspects related to what I am studying. To make me better and better and able to use it in the future fluently
+I just started studying computer engineering. I would like to learn and develop about what I am studying. To make me better and better and able to use it in the future fluently
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning C /C++ Language
